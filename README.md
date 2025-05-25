@@ -38,3 +38,8 @@ Proveedor
 
 ```bash
 python3 almacen_frutas.py
+````
+## Licencia
+---
+
+Desarrollado por [Tzurudo](https://github.com/Tzurudo)
