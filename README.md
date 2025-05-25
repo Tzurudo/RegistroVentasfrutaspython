@@ -1,2 +1,40 @@
-# RegistroVentasfrutaspython
-This is a fruit log in Python, although by modifying the code a bit, you can adapt it to any product.
+# 🥭 Almacén de Frutas - Terminal App
+#No hay dependencias externas. Solo usa módulos estándar de Python
+
+Una aplicación interactiva basada en la terminal para gestionar un inventario de frutas usando archivos CSV. Incluye una interfaz animada con `curses`.
+
+---
+
+## 📦 Funcionalidades
+
+- **Agregar nueva fruta**  
+- **Actualizar datos de fruta existente**
+- **Consultar registros**
+- **Eliminar fruta del inventario**
+- **Menú interactivo con animación de frutas y logo ASCII**
+
+
+
+📁 Datos almacenados en
+almacen_frutas.csv con los siguientes campos:
+
+Nombre
+
+Cantidad
+
+Unidad
+
+Fecha
+
+Origen
+
+Costo
+
+Proveedor
+
+---
+
+## 🚀 Ejecución
+
+```bash
+python3 almacen_frutas.py
